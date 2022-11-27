@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/tr/view/cat-work-it-make-typing-gif-22231730" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
