@@ -1,4 +1,4 @@
-### <div align="center">I'm Mehmet Eren Karadeniz, Kotlin - Android Developer | Information Systems Engineering Student</div>  
+### <div align="center">👋 I'm Mehmet Eren Karadeniz, Kotlin - Android Developer | Information Systems Engineering Student</div>  
   
 
 - 🌱 I’m currently learning Kotlin  
