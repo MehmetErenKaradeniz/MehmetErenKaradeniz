@@ -1,7 +1,7 @@
 ### <div align="center">👋 I'm Mehmet Eren Karadeniz, Kotlin - Android Developer | Information Systems Engineering Student</div>  
   
 
-- 🌱 I’m currently learning Kotlin  
+- 🌱 I’m currently learning Flutter/Kotlin  
   
 
 - 📫 How to reach me m.erenkaradenizbusiness@gmail.com  
